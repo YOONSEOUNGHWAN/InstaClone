@@ -19,3 +19,5 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
+
+#슈퍼유저 만들기 python manage.py createsuperuser
